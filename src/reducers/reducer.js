@@ -5,4 +5,4 @@ const reducers = combineReducers({
     musicReducer,
 });
 
-export default reducers; 
+export default reducers;
